@@ -1,7 +1,7 @@
 <div align="center">
 
 # GitHub Resume Generator
-
+# By utsav ladia
 <i>This project is a web application that generates a professional resume from a GitHub profile. By entering a GitHub username, this web application generates a professional resume based on the user's contributions and projects.</i>
 
 </div>
